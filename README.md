@@ -4,12 +4,16 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<!-- GithubStats -->
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<br><br>
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Alex Moreira ! 
   A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Engenharia de Software at UNIFAN <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"https://www.unifan.edu.br/unifan/ />
+  - 🌱 I’m currently studying Data Engenharia de Software at UNIFAN <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"/>
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
