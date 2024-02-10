@@ -24,10 +24,10 @@
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@alexmoreiradeandrade782?si=rM56FfT7-m-yO5Cf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?legoTrackingToken=30NfmlWqldVomNMsSBA9z0Kc3RBsCZzkTsCfn9xk6NBkDsCfmhLjmNBkDsCejAVejAZp6lQsSlRsmlirnlK9AVfilh9kQZgfnB2sClAsAZQpmtAqnsCqT9LtRZLt5ZKpn1LnP9Sp65Mq6dKtm5Ifmh9t6lDp6BT9z4ZrCZFt6BPrR1QpmtAqnsCc2UMfmlOrSdjsCsCfn9xk6NBkD9D9zRArQRIpl9OpOoMfmVLqnhFsSZgs7lLsCsCejAVejAZp6lQsSlRsmlirnles7lLsCsCsSVLqnhzojRAin1RrT9D9AVfilh9kQZgfnB2sClAsCYCt6NRompBp3RAinhKpmRDpncCsS9LqzRAinhLr7cCt6NRompBp3RAinhRrTBxr2oOtChxs6xzrDlxr3RBrm5epmtxs2pEt7tLsCsZp4BMs64Cdz8Odj8Nfmh9rCZFsT9BtyoMejwOczkVdj4Nfmh9tioUd69AomlCom4TpjkJdzANe2QMe3cQbjoMp3kJdC4Oc3kNc6kZp4BQu6lQrCZz&trk=opento_lp)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.facebook.com/profile.php?id=100075062932805)
 
 <!-- GithubStats -->
 ![Andrade007 GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrade007&show_icons=true&theme=dracula)
